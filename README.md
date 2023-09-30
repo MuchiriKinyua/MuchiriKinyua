@@ -1,5 +1,3 @@
-<img src="https://github.com/MuchiriKinyua/MuchiriKinyua/blob/main/AI.webp" alt="Logo" style="width: 2000px; height: 450px;">
-
 <h1 align="center">Hi 👋, I'm Muchiri Kinyua</h1>
 <h3 align="center">A passionate Data Scientist and AI enthusiast</h3>
 
