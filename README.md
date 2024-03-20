@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muchirikinyua.github.io/personal-portfolio/](https://muchirikinyua.github.io/personal-portfolio/)
 
-- 📫 How to reach me **nicholas.kinyua@student.moringaschool.com**
+- 📫 How to reach me **muchiri.kinyua6564@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
