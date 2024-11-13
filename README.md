@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchirikinyua&label=Profile%20views&color=0e75b6&style=flat" alt="muchirikinyua" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://muchirikinyua.github.io/personal-portfolio/](https://muchirikinyua.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **muchiri.kinyua6564@gmail.com**
 
