@@ -41,6 +41,7 @@
 
 # Connect with me:
 ## - 📫 **Email:** [muchiri.kinyua6564@gmail.com](mailto:muchiri.kinyua6564@gmail.com)  
+## 🌐 **Portfolio:** [muchirikinyua.github.io/Personal-Portfolio](https://muchirikinyua.github.io/Personal-Portfolio/)
 
 ### 🚀 Technologies & Skills:
 - 🔹 **Machine Learning** | Python, TensorFlow, OpenCV, NLP
