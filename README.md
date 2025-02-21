@@ -19,7 +19,7 @@
 ✔️ Admin Dashboard </br>
 ✔️ Hotel Cancellation Prediction
 
-![Screenshot from 2025-02-21 07-14-14](https://github.com/user-attachments/assets/367fa9f0-4f46-4b8e-8c9f-063b851d8193)
+![Screenshot from 2025-02-21 12-31-28](https://github.com/user-attachments/assets/0f5c826d-1b76-4afd-91f7-934c4c377c1e)
 
 # Capstone Hospital System
 
