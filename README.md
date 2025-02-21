@@ -1,5 +1,5 @@
 # Hi there 👋 My Name is Muchiri Kinyua </br> 
-### 🚀 Data Scientist | Laravel Developer 
+## 🚀 Data Scientist | Laravel Developer 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchirikinyua&label=Profile%20views&color=0e75b6&style=flat" alt="muchirikinyua" /> </p>
 
