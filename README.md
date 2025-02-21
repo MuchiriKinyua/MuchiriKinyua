@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchirikinyua&label=Profile%20views&color=0e75b6&style=flat" alt="muchirikinyua" /> </p>
 
+## (All projects have ChatBots)
+
 # Hospital Booking and Cancellation System
 
 ![Screenshot from 2025-02-21 07-06-33](https://github.com/user-attachments/assets/30f22629-e968-45b2-af33-2a0c26a44e70)
