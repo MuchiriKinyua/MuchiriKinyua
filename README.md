@@ -9,7 +9,7 @@
 
 ### Frontend
 
-✔️ Patient Booking & Cancellation  
+✔️ Book a room in real time
 ✔️ Real-time Chatbot for Scheduling  
 
 ![Screenshot from 2025-02-21 07-06-33](https://github.com/user-attachments/assets/30f22629-e968-45b2-af33-2a0c26a44e70)
@@ -24,7 +24,7 @@
 
 ### Frontend
 
-✔️ Patient Booking & Cancellation  
+✔️ Patient Appointment Booking 
 ✔️ Real-time Chatbot for Scheduling  
 
 ![Screenshot from 2025-02-21 07-01-32](https://github.com/user-attachments/assets/25cc8748-f59d-421c-b5a1-0126d38ad3ab)
