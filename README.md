@@ -27,6 +27,8 @@
 
 ## More projects: https://github.com/MuchiriKinyua?tab=repositories
 
+# Connect with me: </br>
+
 ## - 📫 How to reach me **muchiri.kinyua6564@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchirikinyua&show_icons=true&locale=en&layout=compact" alt="muchirikinyua" /></p>
