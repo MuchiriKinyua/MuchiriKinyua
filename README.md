@@ -3,6 +3,12 @@
 
 <h3 align="left">Projects:</h3>
 
+# Hotel Booking and Cancellation System
+
+![Screenshot from 2025-02-21 07-06-33](https://github.com/user-attachments/assets/6d36f9ce-431b-47f1-b066-d80f8b236c27)
+
+# Hospital Management System
+
 ![Screenshot from 2025-02-21 05-21-03](https://github.com/user-attachments/assets/98858fc6-65cf-44a1-8c8a-c22728b436cc)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchirikinyua&label=Profile%20views&color=0e75b6&style=flat" alt="muchirikinyua" /> </p>
@@ -16,7 +22,7 @@
 <a href="https://fb.com/nicholas muchiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicholas muchiri" height="30" width="40" /></a>
 </p>
 
-![Screenshot from 2025-02-21 07-06-33](https://github.com/user-attachments/assets/6d36f9ce-431b-47f1-b066-d80f8b236c27)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchirikinyua&show_icons=true&locale=en&layout=compact" alt="muchirikinyua" /></p>
