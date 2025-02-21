@@ -17,6 +17,8 @@
 
 ![Screenshot from 2025-02-21 05-21-03](https://github.com/user-attachments/assets/590ddcc4-bb47-4e95-9e82-a358488e6ed3)
 
+More projects: https://github.com/MuchiriKinyua?tab=repositories
+
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **muchiri.kinyua6564@gmail.com**
