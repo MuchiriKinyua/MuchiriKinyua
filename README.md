@@ -17,8 +17,9 @@
 ### Backend
 
 ✔️ Admin Dashboard 
+✔️ Hotel Cancellation Prediction
 
-![Screenshot from 2025-02-21 07-10-33](https://github.com/user-attachments/assets/d792fb86-5bd0-4015-af18-3c82eab15094)
+![Screenshot from 2025-02-21 07-14-14](https://github.com/user-attachments/assets/367fa9f0-4f46-4b8e-8c9f-063b851d8193)
 
 # Capstone Hospital System
 
@@ -31,7 +32,8 @@
 
 ### Backend
 
-✔️ Admin Dashboard 
+✔️ Admin Dashboard </br>
+✔️ Disease Prediction
 
 ![Screenshot from 2025-02-21 05-21-03](https://github.com/user-attachments/assets/590ddcc4-bb47-4e95-9e82-a358488e6ed3)
 
