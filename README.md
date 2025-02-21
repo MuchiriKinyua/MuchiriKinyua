@@ -5,7 +5,7 @@
 
 ## (All projects have ChatBots)
 
-# Hospital Booking and Cancellation System
+# Hotel Booking and Cancellation System
 
 ### Frontend
 
