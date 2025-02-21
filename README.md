@@ -1,5 +1,5 @@
 # Hi there 👋 My Name is Muchiri Kinyua </br> 
-## A Data Scientist and Laravel Developer
+### 🚀 Data Scientist | Laravel Developer 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchirikinyua&label=Profile%20views&color=0e75b6&style=flat" alt="muchirikinyua" /> </p>
 
@@ -19,16 +19,38 @@
 
 ### Frontend
 
+✔️ Patient Booking & Cancellation  
+✔️ Real-time Chatbot for Scheduling  
+
 ![Screenshot from 2025-02-21 07-01-32](https://github.com/user-attachments/assets/25cc8748-f59d-421c-b5a1-0126d38ad3ab)
 
 ### Backend
+
+✔️ Admin Dashboard 
 
 ![Screenshot from 2025-02-21 05-21-03](https://github.com/user-attachments/assets/590ddcc4-bb47-4e95-9e82-a358488e6ed3)
 
 ## More projects: https://github.com/MuchiriKinyua?tab=repositories
 
 # Connect with me:
-## - 📫 Gmail: **muchiri.kinyua6564@gmail.com**
+## - 📫 **Email:** [muchiri.kinyua6564@gmail.com](mailto:muchiri.kinyua6564@gmail.com)  
+
+### 🚀 Technologies & Skills:
+- 🔹 **Machine Learning** | Python, TensorFlow, OpenCV, NLP
+- 🔹 **Backend Development** | Laravel, Flask
+- 🔹 **Frontend** | Laravel, HTML, Tailwind CSS  
+- 🔹 **Databases** | MySQL, Firebase  
+- 🔹 **DevOps & Cloud** | Vercel, AWS, GitHub Actions  
+- 🔹 **Version Control** | Git, GitHub
+
+## 🔥 What I'm Working On :
+- 🎯 **Exploring IoT for Smart Delivery Systems 🚚**
+
+## 📈 My GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuchiriKinyua&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuchiriKinyua&theme=radical" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchirikinyua&show_icons=true&locale=en&layout=compact" alt="muchirikinyua" /></p>
 
