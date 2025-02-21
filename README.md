@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muchiri Kinyua</h1>
 <h3 align="center">A Data Scientist and Laravel Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![Screenshot from 2025-02-21 05-21-03](https://github.com/user-attachments/assets/98858fc6-65cf-44a1-8c8a-c22728b436cc)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchirikinyua&label=Profile%20views&color=0e75b6&style=flat" alt="muchirikinyua" /> </p>
 
