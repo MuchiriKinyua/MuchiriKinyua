@@ -9,9 +9,14 @@
 
 ### Frontend
 
+✔️ Patient Booking & Cancellation  
+✔️ Real-time Chatbot for Scheduling  
+
 ![Screenshot from 2025-02-21 07-06-33](https://github.com/user-attachments/assets/30f22629-e968-45b2-af33-2a0c26a44e70)
 
 ### Backend
+
+✔️ Admin Dashboard 
 
 ![Screenshot from 2025-02-21 07-10-33](https://github.com/user-attachments/assets/d792fb86-5bd0-4015-af18-3c82eab15094)
 
@@ -47,10 +52,6 @@
 - 🎯 **Exploring IoT for Smart Delivery Systems 🚚**
 
 ## 📈 My GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuchiriKinyua&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuchiriKinyua&theme=radical" />
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchirikinyua&show_icons=true&locale=en&layout=compact" alt="muchirikinyua" /></p>
 
