@@ -9,8 +9,8 @@
 
 ### Frontend
 
-✔️ Real-time Chatbot
-✔️ Book a room in real-time </br>
+✔️ Real-time Chatbot </br>
+✔️ Book a room in real-time 
 
 ![Screenshot from 2025-02-21 07-06-33](https://github.com/user-attachments/assets/30f22629-e968-45b2-af33-2a0c26a44e70)
 
