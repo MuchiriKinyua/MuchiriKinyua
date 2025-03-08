@@ -21,21 +21,23 @@
 
 ![Screenshot from 2025-02-21 12-31-28](https://github.com/user-attachments/assets/0f5c826d-1b76-4afd-91f7-934c4c377c1e)
 
-# Capstone Hospital System
+# Jo's Florist shop, Nairobi, Kenya.
+
+https://jos-florist-studio.vercel.app/
 
 ### Frontend
 
-✔️ Patient Appointment Booking </br>
-✔️ Real-time Chatbot for Scheduling  
+✔️ Real time flower online business </br>
+✔️ Support for custom flower arrangements and gift bundles 
 
-![Screenshot from 2025-02-21 07-01-32](https://github.com/user-attachments/assets/25cc8748-f59d-421c-b5a1-0126d38ad3ab)
+![Screenshot from 2025-03-08 10-50-04](https://github.com/user-attachments/assets/60cf0220-eae5-4294-a9d2-b3233a61c537)
 
 ### Backend
 
 ✔️ Admin Dashboard </br>
-✔️ Disease Prediction
+✔️ Manage Sales and orders of flowers
 
-![Screenshot from 2025-02-21 05-21-03](https://github.com/user-attachments/assets/590ddcc4-bb47-4e95-9e82-a358488e6ed3)
+![Screenshot from 2025-03-08 10-53-23](https://github.com/user-attachments/assets/d438f57d-37f8-42fd-95ac-5ab50f484743)
 
 ## More projects: https://github.com/MuchiriKinyua?tab=repositories
 
