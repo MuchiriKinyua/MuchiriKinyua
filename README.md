@@ -35,7 +35,7 @@
 ### Backend
 
 ✔️ Admin Dashboard </br>
-✔️ Hotel Cancellation Prediction
+✔️ Hotel Cancellation Prediction (Machine Learning)
 
 ![Screenshot from 2025-02-21 12-31-28](https://github.com/user-attachments/assets/0f5c826d-1b76-4afd-91f7-934c4c377c1e)
 
