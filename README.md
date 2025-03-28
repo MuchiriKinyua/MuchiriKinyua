@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchirikinyua&label=Profile%20views&color=0e75b6&style=flat" alt="muchirikinyua" /> </p>
 
-## (All projects have ChatBots)
+
+# Breast Cancer Prediction
+
+![Screenshot from 2025-03-28 11-27-16](https://github.com/user-attachments/assets/a4dd9093-ce80-4807-be6b-1b93a38872e5)
 
 # Jo's Florist Shop, Nairobi, Kenya
 
@@ -22,23 +25,6 @@
 ✔️ Manage Sales and orders of flowers
 
 ![Screenshot from 2025-03-08 10-53-23](https://github.com/user-attachments/assets/d438f57d-37f8-42fd-95ac-5ab50f484743)
-
-# Hotel Booking and Cancellation System
-
-### Frontend
-
-✔️ Real-time Chatbot </br>
-✔️ Book a room in real-time 
-
-![Screenshot from 2025-02-21 07-06-33](https://github.com/user-attachments/assets/30f22629-e968-45b2-af33-2a0c26a44e70)
-
-### Backend
-
-✔️ Admin Dashboard </br>
-✔️ Hotel Cancellation Prediction (Machine Learning)
-
-![Screenshot from 2025-02-21 12-31-28](https://github.com/user-attachments/assets/0f5c826d-1b76-4afd-91f7-934c4c377c1e)
-
 
 ## More projects: https://github.com/MuchiriKinyua?tab=repositories
 
