@@ -6,6 +6,8 @@
 
 # Breast Cancer Prediction
 
+## "Harnessing AI to detect breast cancer early—because early detection saves lives. 🩺✨"
+
 ![Screenshot from 2025-03-28 11-27-16](https://github.com/user-attachments/assets/a4dd9093-ce80-4807-be6b-1b93a38872e5)
 
 # Jo's Florist Shop, Nairobi, Kenya
